@@ -1,0 +1,26 @@
+{
+  "name": "crudapplication",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.19.1",
+    "bootstrap": "^4.4.1",
+    "mdbreact": "^4.26.1",
+    "react": "^16.13.1",
+    "react-bootstrap": "latest",
+    "react-dom": "^16.13.1",
+    "react-fontawesome": "^1.7.1",
+    "react-icons": "^3.8.0",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "^0.9.5",
+    "react-to-print": "^2.5.1",
+    "react-toasts": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
