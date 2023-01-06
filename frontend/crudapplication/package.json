@@ -12,7 +12,7 @@
     "react-fontawesome": "^1.7.1",
     "react-icons": "^3.8.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^0.9.5",
+    "react-scripts": "^5.0.1",
     "react-to-print": "^2.5.1",
     "react-toasts": "^3.0.6"
   },
